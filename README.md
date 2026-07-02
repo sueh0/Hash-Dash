@@ -2,7 +2,7 @@
   <img src="logoi.png" alt="TidyMind Logo" width="180px">
 </p>
 
-# <p align="center">HashDash — painel Hash</p>
+# <p align="center">HashDash — painel # hash</p>
 
 <p align="center">
   O <b>HashDash</b> é um gerador de hash (SHA-256) rápido, minimalista e com interface moderna. Ideal para desenvolvedores e entusiastas que precisam validar strings de texto ou gerar tokens de verificação instantaneamente.
@@ -25,7 +25,7 @@ O **HashDash** utiliza a biblioteca padrão `hashlib` do Python para implementar
 
 ---
 
-## 💻 Tecnologias
+## 💻 Stacks
 * **Linguagem**: Python 3.x
 * **Interface Gráfica**: CustomTkinter
 * **Criptografia**: Hashlib (SHA-256)
@@ -33,7 +33,7 @@ O **HashDash** utiliza a biblioteca padrão `hashlib` do Python para implementar
 
 ---
 
-## 📋 Como rodar o código-fonte
+## 📋 Rodar pelo Git
 Se preferir rodar direto pelo código em vez do executável:
 
 1. Clone o repositório:
