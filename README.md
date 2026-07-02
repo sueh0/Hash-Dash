@@ -25,7 +25,7 @@ O **HashDash** utiliza a biblioteca padrão `hashlib` do Python para implementar
 
 ---
 
-## 💻 Stacks
+## 💻 Stack usada
 * **Linguagem**: Python 3
 * **Interface Gráfica**: CustomTkinter
 * **Criptografia**: Hashlib (SHA-256)
