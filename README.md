@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="
-    https://github.com/sueh0/Hash-Dash/releases/download/HashDash/HashDash.exe
-    https://github.com/sueh0/HashDash/archive/refs/tags/HashDash.zip">
+  <a href="https://github.com/sueh0/Hash-Dash/releases/download/HashDash/HashDash.exe">
     <img src="https://img.shields.io/badge/DOWNLOAD-HashDash%20(.EXE)-success?style=for-the-badge&logo=windows&logoColor=white&color=2ecc71" alt="Botão de Download TidyMind" height="50px">
   </a>
 </p>
